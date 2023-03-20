@@ -1,12 +1,14 @@
 /*  your css code here. If applicable */
 .container{
 	padding: 20px;
-	background-color: #F5F5F6;
+	background-color: #F5F4F6;
+	font-size:8px;
+	width: 70%;
 }
 .item{
 	background-color:white;
 	padding: 10px;
-	border: 1px solid black;
+	border: 1px solid grey;
 }
 .author{
 	text-align:end;
